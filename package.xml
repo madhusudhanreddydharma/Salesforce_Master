@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>CaseFormComponentControllerTest</members>
+        <members>CaseFormComponetController</members>
+        <members>CaseSearchComponentController</members>
+        <members>CaseSearchFormComponentControllerTest</members>
+        <members>PPTS_SC_FieldSetWrapper</members>
+        <members>PPTS_SC_PaypalAccountAndAlertController</members>
+        <members>PPTS_SC_PaypalAccountAndAlertTest</members>
+        <members>PPTS_SC_customColDataWrapper</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>CaseFormComponent</members>
+        <members>CaseSearchCompDetail</members>
+        <members>CaseSearchComponent</members>
+        <members>CaseSearchComponentEvennt</members>
+        <members>PPTS_SC_Alert</members>
+        <members>PPTS_SC_DataComponent</members>
+        <members>PPTS_SC_PaypalAccount</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <version>37.0</version>
+</Package>
